@@ -33,8 +33,9 @@ header {
     background-image: url(/assest/images/image-6.jpg);
     height: 100vh;
     background-size: 100%;
-    background-repeat: no-repeat;
+    padding: 20px;
     background-position: center;
+    font-size: 40px;
 
 }
 .input-section {
