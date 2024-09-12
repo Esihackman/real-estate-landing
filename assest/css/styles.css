@@ -30,7 +30,7 @@ nav a {
 }
 
 header {
-    background-image: url(/assest/images/image-1.jpg);
+    background-image: url(/assest/images/image-6.jpg);
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -61,6 +61,7 @@ input {
     padding: 20px;
     border: 0;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
 }
 
 .main-container {
@@ -193,4 +194,5 @@ input {
     color: white;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
