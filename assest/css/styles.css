@@ -196,3 +196,16 @@ input {
     border-radius: 10px;
     cursor: pointer;
 }
+.copy-container {
+    background-color: #6e6e6e;
+    color: #fff;
+  }
+  
+  .copyright {
+    height: 30px;
+    width: 40%;
+    margin: auto;
+    font-size: 13px;
+    padding: 10px;
+    text-align: center;
+  }
